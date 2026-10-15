@@ -13,4 +13,4 @@ This repository contains my Python assignments and practice programs.
 ## Purpose
 To improve my Python programming and problem-solving skills through regular practice.
 
-**Created by:** Shivansh Vashisth
+**Created by:** Shivansh Vashishth
