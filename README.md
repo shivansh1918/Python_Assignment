@@ -9,6 +9,7 @@ This repository contains my Python assignments and practice programs.
 - List Comprehension
 - Dictionaries
 - String Operations
+- Mini projects
 
 ## Purpose
 To improve my Python programming and problem-solving skills through regular practice.
